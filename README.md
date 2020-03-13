@@ -1,4 +1,4 @@
-# Capstone Project: Predict West Nile Virus 
+# Capstone Project: Classifying Reviews (AirBnb) into Topics
 
 ### Introduction
 
